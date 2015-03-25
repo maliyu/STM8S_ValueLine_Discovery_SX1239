@@ -1,0 +1,21 @@
++-----------------------------------------------------------------------------+
+|          Semtech SX1239 firmware for STM8S003                               |
++-----------------------------------------------------------------------------+
+
+This firmware currently supports the following Semtech LoRa product:
+	- SX1239
+
+1. Introduction
+-------------------------------------------------------------------------------
+
+This is RF remote controller project for BHAGYASHREE INDUSTRIES (India). 
+This is receiver part which we promote them Semtech SX1239. 
+
+1. Version history
+-------------------------------------------------------------------------------
+
+<master> - This is original project from STM8S_ValueLine_Discovery_SX1278_SFM1L project.
+
+
+
+
