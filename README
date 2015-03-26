@@ -16,6 +16,6 @@ This is receiver part which we promote them Semtech SX1239.
 
 <master> - This is original project from STM8S_ValueLine_Discovery_SX1278_SFM1L project.
 
-
+<v1.0.0> - Port Semtech XE8000 Driving XE1200 Transceivers Standard API Source Code into STM8S_ValueLine_Discovery.
 
 
